@@ -1,0 +1,21 @@
+.common{
+width: 80px;
+    display: inline-table;
+}
+.common1{
+    width: 80px;
+    display: inline-table;
+}
+.common2{
+width: 40%;
+    font-family: monospace;
+}
+.common4{
+    color: aqua;
+}
+.common5{
+    color: darksalmon;
+}
+.common6{
+    color: antiquewhite;
+}
